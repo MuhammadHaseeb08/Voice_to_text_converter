@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #fff;
+    /* display: flex;
+    flex-direction: column; */
+    /* height: min-screen; */
+}
